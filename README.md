@@ -6,7 +6,7 @@ Cool things built with the DiscordEmoji API!
 
 - **Demoji.js**: [View on Github](https://github.com/Jinzulen/DEmojiJS)
 
-## APPS
+## Apps
 
 - **DiscordEmoji Android App**: [View on Google Play](https://play.google.com/store/apps/details?id=com.extraconcentratedjuice.discordemoji)
 
