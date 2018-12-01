@@ -18,6 +18,7 @@ Cool things built with the DiscordEmoji API!
 - **Discord Emoji**: [View on Discordbots](https://discordbots.org/bot/448527818855284756)
 - **Croissant**: [View on Discordbots](https://discordbots.org/bot/441444584988606464)
 - **Automated Emojis**: [View on Discordbots](https://discordbots.org/bot/498139045495439360)
+- **Emoji Manager**: [View on Discordbots](https://discordbots.org/bot/515193679732801536)
 
 ## Other
 
