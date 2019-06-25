@@ -5,6 +5,7 @@ Cool things built with the DiscordEmoji API!
 ## API Wrappers
 
 - **Demoji.js**: [View on Github](https://github.com/Jinzulen/DEmojiJS)
+- **Demoji** (JavaScript): [View on GitHub](https://github.com/chroventer/demoji)
 
 ## Apps
 
